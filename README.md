@@ -1,10 +1,16 @@
+
 ### Oi! Me chamo Beatriz Melo! 👋
 
-##
+<img align="right" alt="biagif" src="https://user-images.githubusercontent.com/69923472/128278532-f33c3688-c277-4786-b3ff-bcdea8562cb8.gif">
+<br></br>
 
 - 🔭 Procurando uma oportunidade para estágio em tecnologia
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
 - 😄 Pronomes: ela/dela
+<br></br>
+
+##
+<br></br>
 
 <div>
   <a href="https://github.com/trizimelo">
@@ -24,7 +30,5 @@
     <a href="https://instagram.com/melotrizi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:beatrizdantas2312@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatrizddmelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/trizimelo/trizimelo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
