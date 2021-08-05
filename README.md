@@ -7,6 +7,7 @@
 - 🔭 Procurando uma oportunidade para estágio em tecnologia
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
 - 😄 Pronomes: ela/dela
+
 <br></br>
 
 ##
