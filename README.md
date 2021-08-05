@@ -7,11 +7,9 @@
 - 🔭 Procurando uma oportunidade para estágio em tecnologia
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
 - 😄 Pronomes: ela/dela
-
+- 💻 Estudando Java
 <br></br>
-
 ##
-<br></br>
 
 <div>
   <a href="https://github.com/trizimelo">
