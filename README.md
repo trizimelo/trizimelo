@@ -4,7 +4,7 @@
 <img align="right" alt="biagif" src="https://user-images.githubusercontent.com/69923472/128278532-f33c3688-c277-4786-b3ff-bcdea8562cb8.gif">
 <br></br>
 
-- 🔭 Estagiária em Arquitetura de T.I
+- 🔭 Arquiteta de T.I
 - 🌱 Estudante de Análise e desenvolvimento de sistemas
 - 😄 Pronomes: ela/dela
 
