@@ -3,8 +3,6 @@
 
 - 🔭 Arquiteta de T.I Jr.
 - 😄 Pronomes: ela/dela
-<br>
-##
 
 <div>
   <a href="https://github.com/trizimelo">
