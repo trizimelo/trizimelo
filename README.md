@@ -3,8 +3,7 @@
 
 - 🔭 Arquiteta de T.I Jr.
 - 😄 Pronomes: ela/dela
-
-<br></br>
+<br>
 ##
 
 <div>
