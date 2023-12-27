@@ -1,8 +1,7 @@
 
 ### Oi! Me chamo Beatriz Melo! 👋
 
-- 🔭 Arquiteta de T.I
-- 🌱 Estudante de Análise e desenvolvimento de sistemas
+- 🔭 Arquiteta de T.I Jr.
 - 😄 Pronomes: ela/dela
 
 <br></br>
