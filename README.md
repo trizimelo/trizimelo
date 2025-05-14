@@ -1,9 +1,4 @@
 
-### Oi! Me chamo Beatriz Melo! 👋
-
-- 🔭 Arquiteta de T.I Jr.
-- 😄 Pronomes: ela/dela
-
 <div>
   <a href="https://github.com/trizimelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trizimelo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
